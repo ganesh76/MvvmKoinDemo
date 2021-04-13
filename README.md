@@ -3,5 +3,5 @@
 
 ## Project intended for demo and reference purpose
 
-![Screenshot](koin_demo_1.png)
-![Screenshot](koin_demo_2.png)
+<img src="koin_demo_1.png" width="240">
+<img src="koin_demo_2.png" width="240">
