@@ -8,7 +8,7 @@
 
         <variable
             name="country"
-            type="com.example.mvvmkoindemo.db.model.ImagesData" />
+            type="com.ganesh.mvvmkoindemo.db.model.ImagesData" />
 
         <variable
             name="currency"

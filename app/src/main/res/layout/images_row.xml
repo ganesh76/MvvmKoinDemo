@@ -9,11 +9,11 @@
         <import type="android.view.View" />
         <variable
             name="imageData"
-            type="com.example.mvvmkoindemo.db.model.ImagesData" />
+            type="com.ganesh.mvvmkoindemo.db.model.ImagesData" />
 
         <variable
             name="imageClickInterface"
-            type="com.example.mvvmkoindemo.views.ImageClickListener" />
+            type="com.ganesh.mvvmkoindemo.views.ImageClickListener" />
 
     </data>
 

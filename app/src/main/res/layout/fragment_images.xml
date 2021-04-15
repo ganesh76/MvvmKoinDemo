@@ -8,7 +8,7 @@
 
         <variable
             name="viewModel"
-            type="com.example.mvvmkoindemo.viewmodel.ImagesViewModel" />
+            type="com.ganesh.mvvmkoindemo.viewmodel.ImagesViewModel" />
 
     </data>
 
